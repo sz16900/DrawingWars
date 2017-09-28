@@ -1,0 +1,29 @@
+{
+  "name": "drawingwars",
+  "version": "1.0.0",
+  "description": "Coding_Train",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sz16900/DrawingWars.git"
+  },
+  "keywords": [
+    "sockets",
+    "p5.js",
+    "node"
+  ],
+  "author": "Seth Zea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sz16900/DrawingWars/issues"
+  },
+  "homepage": "https://github.com/sz16900/DrawingWars#readme",
+  "dependencies": {
+    "express": "^4.15.5",
+    "socket.io": "^2.0.3"
+  }
+}
